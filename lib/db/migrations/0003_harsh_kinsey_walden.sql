@@ -1,0 +1,1 @@
+ALTER TABLE "articles" ADD COLUMN "telegram_posted_at" timestamp with time zone;
